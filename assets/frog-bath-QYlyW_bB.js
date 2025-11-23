@@ -1,4 +1,4 @@
-import{R as t,j as e,a as n,S as i}from"./StoryPlayer-m8HIwNPo.js";const a=[{id:0,image:"1.webp",text:"变身！不怕水的淋浴超人",subText:"遵守安全指令 (淋浴场景)",type:"cover"},{id:1,image:"1.webp",text:`洗澡啦！浴室里暖暖的。
+import"./modulepreload-polyfill-B5Qt9EMX.js";import{R as t,j as e,a as i,S as n}from"./StoryPlayer-CIFkK3HM.js";const o=[{id:0,image:"1.webp",text:"变身！不怕水的淋浴超人",subText:"遵守安全指令 (淋浴场景)",type:"cover"},{id:1,image:"1.webp",text:`洗澡啦！浴室里暖暖的。
 爸爸问：“准备好玩水了吗？”
 豆豆开心大叫：“准备好啦！”`,type:"story"},{id:2,image:"2.webp",text:`哗啦啦，哗啦啦！
 水从头顶流下来，像下雨一样。
@@ -12,4 +12,4 @@ import{R as t,j as e,a as n,S as i}from"./StoryPlayer-m8HIwNPo.js";const a=[{id:
 “只要闭紧眼睛，就是不怕水的超人！”
 “泡泡就进不去啦！”`,type:"story"},{id:7,image:"7.webp",text:`爸爸喊：“超人变身！”
 豆豆闭紧眼睛，水哗啦啦冲下来。
-真的不疼了！豆豆真是个勇敢的小超人！`,type:"end"}];t.createRoot(document.getElementById("root")).render(e.jsx(n.StrictMode,{children:e.jsx(i,{storyData:a})}));
+真的不疼了！豆豆真是个勇敢的小超人！`,type:"end"}];t.createRoot(document.getElementById("root")).render(e.jsx(i.StrictMode,{children:e.jsx(n,{storyData:o})}));
