@@ -1,4 +1,4 @@
-import"./modulepreload-polyfill-B5Qt9EMX.js";import{R as t,j as e,a as i,S as o}from"./StoryPlayer-CIFkK3HM.js";const p=[{id:0,image:"1.webp",text:"凯蒂侦探和闪亮牙齿的秘密",subText:"保护牙齿，是我自己的任务！",type:"cover"},{id:1,image:"1.webp",text:`在小镇的阁楼上，住着一只最聪明的小猫，她的名字叫凯蒂。
+import"./modulepreload-polyfill-B5Qt9EMX.js";import{R as t,j as e,a as i,S as o}from"./StoryPlayer-BX9Kuk4s.js";const p=[{id:0,image:"1.webp",text:"凯蒂侦探和闪亮牙齿的秘密",subText:"保护牙齿，是我自己的任务！",type:"cover"},{id:1,image:"1.webp",text:`在小镇的阁楼上，住着一只最聪明的小猫，她的名字叫凯蒂。
 凯蒂不是普通的小猫，她是一位了不起的小侦探！
 每天，她都有一个非常、非常重要的案子要调查。`,type:"story"},{id:2,image:"2.webp",text:`今天早上，凯蒂吃完了甜甜的草莓和牛奶。她舔了舔嘴巴，忽然，她发现了一个神秘线索！
 “嗯？”凯蒂对着镜子里的自己说，“我的牙齿感觉毛茸茸的，一点也不闪亮了！”`,type:"story"},{id:3,image:"3.webp",text:"“我知道了！”凯蒂的眼睛一下子亮了起来，“一定是那些‘淘气糖虫’又来捣乱了！它们最喜欢躲在牙齿中间捉迷藏，让牙齿失去光芒。”",type:"story"},{id:4,image:"4.webp",text:`作为一名优秀的小侦探，凯蒂有她的秘密武器！
