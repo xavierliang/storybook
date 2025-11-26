@@ -1,4 +1,4 @@
-import"./modulepreload-polyfill-B5Qt9EMX.js";import{R as a,j as e,a as o,S as n}from"./StoryPlayer-B-Rs9Qdx.js";const t=[{id:0,image:"1.webp",text:{zh:"变身!不怕水的淋浴超人",en:"Transform! The Fearless Shower Superhero",es:"¡Transformación! El Superhéroe de la Ducha","zh-TW":"變身!不怕水的淋浴超人"},subText:{zh:"遵守安全指令 (淋浴场景)",en:"Following Safety Instructions (Shower Scene)",es:"Siguiendo Instrucciones de Seguridad (Escena de la Ducha)","zh-TW":"遵守安全指令 (淋浴場景)"},type:"cover"},{id:1,image:"1.webp",text:{zh:`洗澡啦!浴室里暖暖的。
+import"./i18n-Cq1TxMvx.js";import{R as a,j as e,a as o,S as n}from"./StoryPlayer-Div2v2Nl.js";const t=[{id:0,image:"1.webp",text:{zh:"变身!不怕水的淋浴超人",en:"Transform! The Fearless Shower Superhero",es:"¡Transformación! El Superhéroe de la Ducha","zh-TW":"變身!不怕水的淋浴超人"},subText:{zh:"遵守安全指令 (淋浴场景)",en:"Following Safety Instructions (Shower Scene)",es:"Siguiendo Instrucciones de Seguridad (Escena de la Ducha)","zh-TW":"遵守安全指令 (淋浴場景)"},type:"cover"},{id:1,image:"1.webp",text:{zh:`洗澡啦!浴室里暖暖的。
 爸爸问:「准备好玩水了吗?」
 豆豆开心大叫:「准备好啦!」`,en:`It's bath time! The bathroom is warm and cozy.
 "Are you ready to play in the water?" Daddy asks.
