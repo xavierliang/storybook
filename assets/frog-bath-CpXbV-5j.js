@@ -1,4 +1,4 @@
-import"./i18n-BVGyXb8O.js";import{R as a,j as e,a as o,S as n}from"./StoryPlayer-P4iXqT6_.js";const t=[{id:0,image:"1.webp",text:{"zh-CN":"变身!不怕水的淋浴超人",en:"Transform! The Fearless Shower Superhero",es:"¡Transformación! El Superhéroe de la Ducha","zh-TW":"變身!不怕水的淋浴超人"},subText:{"zh-CN":"遵守安全指令 (淋浴场景)",en:"Following Safety Instructions (Shower Scene)",es:"Siguiendo Instrucciones de Seguridad (Escena de la Ducha)","zh-TW":"遵守安全指令 (淋浴場景)"},type:"cover"},{id:1,image:"1.webp",text:{"zh-CN":`洗澡啦!浴室里暖暖的。
+import"./i18n-BzDkANIj.js";import{R as a,j as e,a as o,S as n}from"./StoryPlayer-B5eGVkW0.js";const t=[{id:0,image:"1.webp",text:{"zh-CN":"变身!不怕水的淋浴超人",en:"Transform! The Fearless Shower Superhero",es:"¡Transformación! El Superhéroe de la Ducha","zh-TW":"變身!不怕水的淋浴超人"},subText:{"zh-CN":"遵守安全指令 (淋浴场景)",en:"Following Safety Instructions (Shower Scene)",es:"Siguiendo Instrucciones de Seguridad (Escena de la Ducha)","zh-TW":"遵守安全指令 (淋浴場景)"},type:"cover"},{type:"title-page",author:{"zh-CN":"作者：Xavier",en:"By Xavier",es:"Por Xavier","zh-TW":"作者：Xavier"},dedication:{"zh-CN":"献给我的女儿兔兔",en:"For my daughter Wuji",es:"Para mi hija Wuji","zh-TW":"獻給我的女兒兔兔"},copyright:{"zh-CN":"© 2025 心芽绘本",en:"© 2025 MindBuds",es:"© 2025 MindBuds","zh-TW":"© 2025 心芽繪本"}},{id:1,image:"1.webp",text:{"zh-CN":`洗澡啦!浴室里暖暖的。
 爸爸问:「准备好玩水了吗?」
 豆豆开心大叫:「准备好啦!」`,en:`It's bath time! The bathroom is warm and cozy.
 "Are you ready to play in the water?" Daddy asks.
@@ -54,4 +54,4 @@ It doesn't hurt a bit! Doudou really is a brave little Superhero!`,es:`"¡Transf
 Doudou aprieta los ojos bien fuerte. ¡Fiuuu hace el agua!
 ¡No duele ni un poquito! ¡Doudou es un pequeño Superhéroe muy valiente!`,"zh-TW":`爸爸喊:「超人變身!」
 豆豆閉緊眼睛,水嘩啦啦沖下來。
-真的不疼了!豆豆真是個勇敢的小超人!`},type:"end"}];a.createRoot(document.getElementById("root")).render(e.jsx(o.StrictMode,{children:e.jsx(n,{storyData:t})}));
+真的不疼了!豆豆真是個勇敢的小超人!`},type:"end"},{type:"back-cover",image:"7.webp",text:{"zh-CN":"豆豆变成了勇敢的淋浴超人，再也不怕水啦！",en:"Doudou became a brave Shower Superhero and isn't afraid of water anymore!",es:"¡Doudou se convirtió en un valiente Superhéroe de la Ducha y ya no le tiene miedo al agua!","zh-TW":"豆豆變成了勇敢的淋浴超人，再也不怕水啦！"}}];a.createRoot(document.getElementById("root")).render(e.jsx(o.StrictMode,{children:e.jsx(n,{storyData:t})}));
