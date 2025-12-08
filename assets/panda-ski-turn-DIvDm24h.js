@@ -1,4 +1,4 @@
-import"./i18n-BzDkANIj.js";import{R as a,j as e,a as n,S as t}from"./StoryPlayer-B5eGVkW0.js";const r=[{id:0,type:"cover",image:"1.webp",text:{"zh-CN":"小熊猫会转弯了",en:"Little Panda Learns to Turn",es:"El Pequeño Panda Aprende a Girar"}},{type:"title-page",author:{"zh-CN":"作者：心芽创作团队",en:"By MindBuds Team",es:"Por Equipo MindBuds"},copyright:{"zh-CN":"© 2025 心芽绘本",en:"© 2025 MindBuds",es:"© 2025 MindBuds"}},{id:1,type:"story",image:"1.webp",text:{"zh-CN":`呼——呼——！
+import"./i18n-BzDkANIj.js";import{R as a,j as e,a as n,S as t}from"./StoryPlayer-DAZMkdVc.js";const r=[{id:0,type:"cover",image:"1.webp",text:{"zh-CN":"小熊猫会转弯了",en:"Little Panda Learns to Turn",es:"El Pequeño Panda Aprende a Girar"}},{type:"title-page",author:{"zh-CN":"作者：心芽创作团队",en:"By MindBuds Team",es:"Por Equipo MindBuds"},copyright:{"zh-CN":"© 2025 心芽绘本",en:"© 2025 MindBuds",es:"© 2025 MindBuds"}},{id:1,type:"story",image:"1.webp",text:{"zh-CN":`呼——呼——！
 小熊猫滑得好快呀！
 直直地向前冲！`,en:`Whoosh, whoosh!
 Little Panda goes so fast!
